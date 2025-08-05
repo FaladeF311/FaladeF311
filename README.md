@@ -1,47 +1,36 @@
 # 👋 Hi, I'm Favour Falade
 
-Welcome to my GitHub! I'm a passionate and curious developer focused on building impactful software and continuously learning modern technologies. I enjoy solving real-world problems and collaborating on projects that make a difference.
+**Christian Techie | Data Analyst | Aspiring Data Scientist**  
+**Co-Lead, Data Scientist Network – Ekiti State University**  
+**Member, American Society for Microbiology**
 
-## 🚀 About Me
+Welcome to my GitHub! I'm a passionate data professional with a strong foundation in analytical thinking, problem-solving, and deriving insights from data. I love transforming raw data into meaningful stories that drive impact.
 
-- 💻 Aspiring Software Developer | Lifelong Learner
-- 🎯 Passionate about backend development, cloud computing, and scalable systems
-- 🌱 Currently enhancing my skills in full-stack development and cloud technologies
+---
+
+## 💡 About Me
+
+- 📊 Currently working as a **Data Analyst**, exploring insights through data visualization and statistical analysis  
+- 🌱 Transitioning into **Data Science** with a focus on machine learning and predictive modeling  
+- 🧪 Strong interest in the intersection of **biology, health, and data**  
+- 🌍 Active contributor in the data community, co-leading initiatives at Ekiti State University  
 - 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/favour-falade)
 
-## 🛠️ Tech Stack
+---
 
-- **Languages:** JavaScript, Python, Java
-- **Web Technologies:** HTML, CSS, React, Node.js
-- **Databases:** MongoDB, MySQL
-- **Tools & Platforms:** Git, GitHub, Postman, VS Code
-- **Learning:** Docker, Kubernetes, AWS
+## 🛠️ Tech & Tools
 
-## 📌 Featured Projects
-
-Here are a few projects I'm proud of — visit my repos to learn more:
-
-- 🔗 [Project 1 Name](https://github.com/FaladeF311/your-repo-name) – *Short description of what it does.*
-- 🔗 [Project 2 Name](https://github.com/FaladeF311/your-repo-name) – *Highlight any features or technologies used.*
-- 🔗 [Project 3 Name](https://github.com/FaladeF311/your-repo-name) – *Mention if it solves a real-world problem.*
-
-> Want to collaborate? I’m always open to connecting with fellow developers and working on exciting projects!
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaladeF311&show_icons=true&theme=github_dark" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=FaladeF311&theme=github-dark&hide_border=true" />
-</p>
+- **Languages:** Python, SQL, R
+- **Libraries/Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Streamlit  
+- **Data Tools:** Excel, Power BI, Tableau  
+- **Other:** Git, Jupyter Notebooks, Google Sheets
 
 ---
 
-### 📫 How to Reach Me
+## 📌 Projects & Highlights
 
-- 📧 Email: *[your-email-here]*  
-- 💼 [LinkedIn](https://www.linkedin.com/in/favour-falade)
+- 📈 **Data Analysis Projects:** In-depth EDA, visualization dashboards, and insights reporting  
+- 🤖 **Machine Learning Practice:** Working on small-scale predictive modeling with real-world datasets  
+- 📚 **Education & Training:** Engaged in ongoing data science learning via online platforms and community-led workshops  
 
----
-
-*Thank you for visiting my GitHub profile! ⭐ Feel free to explore my repositories and drop a ⭐ if something interests you!*
+🔗 [
